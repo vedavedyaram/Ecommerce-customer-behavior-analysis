@@ -127,6 +127,6 @@ This project demonstrates the use of Python, data cleaning, data manipulation, a
 
 ## 👨‍💻 Author
 
-**Veda Vedya Ram**
+** Mundru Veda vedya ram**
 
 
